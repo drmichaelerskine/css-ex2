@@ -1,0 +1,50 @@
+/* */
+
+/* Header */
+header {
+
+}
+
+/* Navigation */
+nav {
+
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+
+}
+
+/* Content about Greece */
+
+.container {
+  margin-top: 160px;
+  margin-bottom: 80px;
+  display: flex;
+}
+
+.left-column {
+
+}
+
+.right-column {
+
+}
+
+@media (max-width: 600px) {
+
+ 
+}
+
+/* Footer */
+footer {
+
+}
